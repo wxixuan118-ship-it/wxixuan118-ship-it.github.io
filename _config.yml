@@ -1,0 +1,10 @@
+title: wxixuan118 blog
+description: Notes on building small web tools, SEO, and indie projects.
+url: "https://wxixuan118-ship-it.github.io"
+baseurl: ""
+theme: minima
+permalink: /:year/:month/:day/:title/
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
