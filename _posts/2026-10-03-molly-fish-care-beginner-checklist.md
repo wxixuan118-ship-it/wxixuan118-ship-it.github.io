@@ -2,7 +2,7 @@
 layout: post
 title: "Molly Fish Care for Beginners: A Practical Checklist for Your First Month"
 description: "Molly fish care for beginners: water tests, 20-gallon setup, tank mates, diet and how to plan for fry before your mollies start breeding."
-date: 2026-10-03 16:00:00 +0800
+date: 2026-10-03 11:00:00 +0800
 tags: [aquarium, fishkeeping, molly-fish]
 image: /assets/images/molly-fish-care-community-aquarium.jpg
 ---
